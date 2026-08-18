@@ -1,0 +1,13 @@
+{
+  "name": "llm-aggregator",
+  "version": "1.0.0",
+  "description": "LLM 聚合控制台 - 本地代理版本",
+  "type": "module",
+  "scripts": {
+    "start": "node proxy.js",
+    "dev": "node proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
